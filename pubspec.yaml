@@ -1,0 +1,25 @@
+name: strongbolt
+description: A application based on Matrix protocol.
+uses-material-design: true
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.12.1
+  adobe_xd: ^0.1.4
+  flutter_svg: ^0.17.0
+  random_string: ^2.0.1
+  bitcoin_flutter: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/

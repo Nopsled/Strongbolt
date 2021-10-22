@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 14,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.accessibilitySupport": "off",
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "breadcrumbs.showOperators": false,
+    "breadcrumbs.showPackages": false,
+    "breadcrumbs.showProperties": false,
+    "breadcrumbs.showStrings": false,
+    "breadcrumbs.showStructs": false,
+    "breadcrumbs.showTypeParameters": false,
+    "breadcrumbs.showVariables": false,
+    "breadcrumbs.symbolPath": "off",
+    "editor.fontFamily": "Hack"
+}
